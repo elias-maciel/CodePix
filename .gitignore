@@ -1,2 +1,4 @@
-.pgdata/
-.pgdata/pg_stat_tmp/db_0.stat
+.pgdata
+.idea
+.env
+.vscode
